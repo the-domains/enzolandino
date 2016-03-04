@@ -1,0 +1,28 @@
+name: Enzo Landino
+favicon: null
+layout_spectrum: 0.11908236402086914
+typography_spectrum: 0.9560815675649792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.29931845562532544
+  lightness: 0.6752724754624069
+  saturation: 0.15423478255979717
+  rhythmicContrast: 0.26096775219775736
+purpose: []
