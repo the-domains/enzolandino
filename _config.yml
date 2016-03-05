@@ -1,29 +1,41 @@
-name: Enzo Landino
-favicon: null
-layout_spectrum: 0.75241
-typography_spectrum: 0.9560815675649792
 title: Enzo Landino - Speaker Podcaster Brand Correspondent
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1542347825597972
+  brandStrength: 1
+  lightness: 0.6752724754624069
+  brandColors:
+    - '#2D2A25'
+    - '#FFFFFF'
+    - '#FCB041'
+    - '#D8D5D1'
+    - '#797875'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Enzo Landino
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2e2925'
-    - '#ffffff'
-    - '#000022'
-    - '#af8b69'
-    - '#f8b03f'
-  brandStrength: 1
-  lightness: 0.6752724754624069
-  saturation: 0.15423478255979717
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.2389903
+layout_spectrum: 0.75241
